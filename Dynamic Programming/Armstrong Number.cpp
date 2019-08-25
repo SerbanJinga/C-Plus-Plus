@@ -1,6 +1,8 @@
 //program to check whether a number is an armstrong number or not
-#include <iostream.h>
-#include <Math.h>
+#include <iostream>
+#include <math.h>
+
+using namespace std;
 int main()
 {
   int n, k, d, s = 0;
